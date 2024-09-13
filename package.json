@@ -1,14 +1,30 @@
 {
   "name": "react-native-typing-animated-text",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A React Native component that simulates typing text with an animated gradient background.",
   "main": "index.js",
-  "scripts": {
+  "keywords": [
+    "react-native",
+    "animated-text",
+    "typing-effect",
+    "text-animation",
+    "react-native-animations",
+    "react-native-typing",
+    "animated-typing",
+    "react-native-ui",
+    "text-effect",
+    "animated-text-effect",
+    "react-native-component",
+    "typing-animation",
+    "text-typing",
+    "react-native-animated-text",
+    "animated-text-input"
+  ],  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mehuljetani/react-native-typing-animated-text.git"
+    "url": "https://github.com/mehuljetani/react-native-typing-animated-text"
   },
   "author": "mehuljetani",
   "license": "ISC",
