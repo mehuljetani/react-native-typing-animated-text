@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-  <title>React Native Animated Typing Text</title>
 </head>
 <body>
 
@@ -61,7 +60,7 @@ export default App;
 
   <h2>Demo</h2>
   <p>Check out the demo of the component in action:</p>
-  <img src="./src/assets/demo.gif" alt="Demo GIF" style="max-width: 100%; height: auto;">
+  <img src="./src/assets/demo.gif" alt="Demo GIF" style="width: 300px; height: auto;">
 
   <h2>Props</h2>
   <table>
