@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <title>React Native Animated Typing Text</title>
 </head>
 <body>
 
@@ -57,6 +58,10 @@ const styles = StyleSheet.create({
 
 export default App;
   </code></pre>
+
+  <h2>Demo</h2>
+  <p>Check out the demo of the component in action:</p>
+  <img src="./src/assets/demo.gif" alt="Demo GIF" style="max-width: 100%; height: auto;">
 
   <h2>Props</h2>
   <table>
@@ -115,7 +120,7 @@ export default App;
   </table>
 
   <h2>License</h2>
-  <p>This project is licensed under the MIT License details.</p>
+  <p>This project is licensed under the ISC License.</p>
 
   <h2>Contact</h2>
   <p>If you have any questions or issues, please open an issue on the <a href="https://github.com/mehuljetani/react-native-animated-typing-text/issues">GitHub repository</a> or contact the author directly.</p>

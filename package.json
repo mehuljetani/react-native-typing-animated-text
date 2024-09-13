@@ -1,6 +1,6 @@
 {
   "name": "react-native-typing-animated-text",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A React Native component that simulates typing text with an animated gradient background.",
   "main": "index.js",
   "keywords": [
