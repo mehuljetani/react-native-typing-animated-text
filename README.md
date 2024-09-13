@@ -60,7 +60,7 @@ export default App;
 
   <h2>Demo</h2>
   <p>Check out the demo of the component in action:</p>
-  <img src="./src/assets/demo.gif" alt="Demo GIF" style="width: 300px; height: auto;">
+  <img src="./src/assets/demo.gif" alt="Demo GIF" style="width: 160px; height: auto;">
 
   <h2>Props</h2>
   <table>
