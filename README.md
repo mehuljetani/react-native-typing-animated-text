@@ -2,27 +2,52 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- SEO Optimization -->
+  <meta name="description" content="React Native animated typing text component with gradient backgrounds. Easy to install and use with customizable properties.">
+  <meta name="keywords" content="React Native, Typing Text, Animation, Gradient, npm, JavaScript, Mobile Development">
+  <meta name="author" content="Mehul Jetani">
+  
+  <!-- Social Media Open Graph (OG) Tags -->
+  <meta property="og:title" content="react-native-typing-animated-text" />
+  <meta property="og:description" content="A React Native component that simulates typing text with an animated gradient background." />
+  <meta property="og:url" content="https://github.com/mehuljetani/react-native-typing-animated-text" />
+
+  <!-- Twitter Card Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="react-native-typing-animated-text" />
+  <meta name="twitter:description" content="React Native animated typing text component with customizable gradient backgrounds." />
+  
+  
+
+  <!-- Google Analytics -->
+  
 </head>
 <body>
 
-  <h1>react-native-animated-typing-text</h1>
+  <h1>react-native-typing-animated-text</h1>
   <p>A React Native component that simulates typing text with an animated gradient background.</p>
+
+  <!-- GitHub Badge -->
+  <a href="https://github.com/mehuljetani/react-native-typing-animated-text">
+    <img src="https://img.shields.io/github/stars/mehuljetani/react-native-typing-animated-text?style=social" alt="GitHub Stars">
+  </a>
 
   <h2>Installation</h2>
   <p>To install the package, use npm or yarn:</p>
 
   <h3>Using npm:</h3>
-  <pre><code>npm install react-native-animated-typing-text</code></pre>
+  <pre><code>npm install react-native-typing-animated-text</code></pre>
 
   <h3>Using yarn:</h3>
-  <pre><code>yarn add react-native-animated-typing-text</code></pre>
+  <pre><code>yarn add react-native-typing-animated-text</code></pre>
 
   <h2>Usage</h2>
   <p>To use the <code>TypingText</code> component in your React Native project, follow these steps:</p>
 
   <h3>Import the Component</h3>
-  <pre><code>import TypingText from 'react-native-animated-typing-text';</code></pre>
+  <pre><code>import TypingText from 'react-native-typing-animated-text';</code></pre>
 
   <h3>Example</h3>
   <p>Here's a basic example of how to use the <code>TypingText</code> component:</p>
@@ -30,7 +55,7 @@
   <pre><code>
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-import TypingText from 'react-native-animated-typing-text';
+import TypingText from 'react-native-typing-animated-text';
 
 const App = () => {
   return (
@@ -58,9 +83,11 @@ const styles = StyleSheet.create({
 export default App;
   </code></pre>
 
-  <h2>Demo</h2>
+  <!-- Demo Section with Live Demo and GIF -->
+  <h2 class="demo-section">Demo</h2>
   <p>Check out the demo of the component in action:</p>
-  <img src="./src/assets/demo.gif" alt="Demo GIF" style="width: 160px; height: auto;">
+  <img src="./src/assets/demo.gif" alt="Demo GIF" loading="lazy" style="width: 160px; height: auto;">
+  <br>
 
   <h2>Props</h2>
   <table>
@@ -122,7 +149,9 @@ export default App;
   <p>This project is licensed under the ISC License.</p>
 
   <h2>Contact</h2>
-  <p>If you have any questions or issues, please open an issue on the <a href="https://github.com/mehuljetani/react-native-animated-typing-text/issues">GitHub repository</a> or contact the author directly.</p>
+  <p>If you have any questions or issues, please open an issue on the <a href="https://github.com/mehuljetani/react-native-typing-animated-text/issues">GitHub repository</a> or contact the author directly.</p>
+
+  
 
 </body>
 </html>
