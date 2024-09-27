@@ -86,7 +86,7 @@ export default App;
   <!-- Demo Section with Live Demo and GIF -->
   <h2 class="demo-section">Demo</h2>
   <p>Check out the demo of the component in action:</p>
-  <img src="./src/assets/demo.gif" alt="Demo GIF" loading="lazy" style="width: 160px; height: auto;">
+  <img src="https://miro.medium.com/v2/resize:fit:438/format:webp/1*rEKhCdFKhcI7mhUdfot6QQ.gif" alt="Demo GIF" loading="lazy" >
   <br>
 
   <h2>Props</h2>
